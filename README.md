@@ -89,9 +89,9 @@ https://www.w3schools.com/html/html_intro.asp
 * The title attribute defines some extra information about an element
 
 
-# Solution - The HTML <pre> Element
-* The HTML <pre> element defines preformatted text.
-*The text inside a <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks:
+# Solution of The HTML ```<pre>``` Element
+* The HTML ```<pre>``` element defines preformatted text.
+* The text inside a ```<pre>``` element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks:
 
 # HTML Styles
 * The HTML style attribute is used to add styles to an element, such as color, font, size, and more.
@@ -102,4 +102,10 @@ https://www.w3schools.com/html/html_intro.asp
 
 ### The property is a CSS property. The value is a CSS value.
 
-
+## Chapter Summary
+* Use the style attribute for styling HTML elements
+* Use background-color for background color
+* Use color for text colors
+* Use font-family for text fonts
+* Use font-size for text sizes
+* Use text-align for text alignment
